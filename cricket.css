@@ -1,0 +1,12 @@
+ body{
+      text-align: center;
+    }
+
+.choice_button{
+  border: 1px solid black;
+  height: 220px;
+  width: 220px;
+  background-color: aqua;
+  margin: 5px;
+  border-radius: 50%;
+}
